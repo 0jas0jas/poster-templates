@@ -147,12 +147,12 @@
 <text
    transform="matrix(1 0 0 1 43 460.8066)"
    class="st2 st3 st4"
-   id="text1057">({{month}} {{day}}-{{day+1}})</text>
+   id="text1057">(Febuary 1)</text>
 
 <text
    transform="matrix(1 0 0 1 42.9404 701.8066)"
    class="st2 st3 st5"
-   id="text1059">codeday.org/{{url}}</text>
+   id="text1059">codeday.org/seattle</text>
 
 <text
    transform="matrix(1 0 0 1 42.9404 741.8066)"

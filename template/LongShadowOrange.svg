@@ -93,7 +93,7 @@
    y="333.22711"
    style="font-size:55.09360123px;font-family:Babushka"><tspan
      style="text-align:end;text-anchor:end"
-     id="tspan1622">{{name}}</tspan></text>
+     id="tspan1622">Seattle</tspan></text>
 
 
 
@@ -513,12 +513,12 @@
      y="387.66641"
      class="st4 st5"
      id="tspan1605"
-     style="font-size:25px;font-family:Sofia Pro;text-align:end;text-anchor:end">{{short_month}} {{day}}-{{day+1}}, Noon-Noon</tspan><tspan
+     style="font-size:25px;font-family:Sofia Pro;text-align:end;text-anchor:end">Feb 1, 8 AM-8 PM</tspan><tspan
      x="545.49139"
      y="417.66641"
      class="st4 st5"
      id="tspan1607"
-     style="font-size:25px;font-family:Sofia Pro;text-align:end;text-anchor:end">CodeDay.org/{{url}}</tspan><tspan
+     style="font-size:25px;font-family:Sofia Pro;text-align:end;text-anchor:end">CodeDay.org/seattle</tspan><tspan
      x="545.49139"
      y="461.66641"
      class="st4 st5"

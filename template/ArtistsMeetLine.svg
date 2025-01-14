@@ -149,7 +149,7 @@
      id="tspan21641"
      x="49.149105"
      y="496.91351"
-     style="line-height:1.14999998">{{month}} {{day}}-{{day+1}} </tspan><tspan
+     style="line-height:1.14999998">Febuary 1 </tspan><tspan
      sodipodi:role="line"
      x="49.149105"
      y="550.68591"
@@ -159,7 +159,7 @@
      x="49.149105"
      y="604.45825"
      id="tspan21661"
-     style="line-height:1.14999998">codeday.org/{{url}}</tspan></text>
+     style="line-height:1.14999998">codeday.org/seattle</tspan></text>
 </g>
 
 

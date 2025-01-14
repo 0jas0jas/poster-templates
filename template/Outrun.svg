@@ -1492,7 +1492,7 @@
        font-size="29.911"
        id="text27431"
        y="721.29498"
-       style="font-size:29.9109993px;font-family:Politica-Regular, Politica;text-anchor:middle;fill:#ffffff">codeday.org/{{url}}</text>
+       style="font-size:29.9109993px;font-family:Politica-Regular, Politica;text-anchor:middle;fill:#ffffff">codeday.org/seattle</text>
     <text
        text-anchor="middle"
        x="50%"
@@ -1500,7 +1500,7 @@
        font-size="29.911"
        fill="#fff"
        font-family="Politica-Regular, Politica"
-       id="text27433">{{month}} {{day}}-{{day+1}}</text>
+       id="text27433">Febuary 1</text>
     <text
        x="306.15182"
        font-size="29.911"

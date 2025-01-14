@@ -600,7 +600,7 @@
 		<text
    transform="translate(409,402.3336)"
    class="st7 st8 st9"
-   id="text3538">{{month}} {{day}}-{{day+1}}, noon-noon</text>
+   id="text3538">Febuary 1, noon-noon</text>
 
 
 	</g>
@@ -630,7 +630,7 @@
      y="26.4"
      class="st7 st8 st9"
      id="tspan3550"
-     style="font-size:11px;font-family:'Avenir Next';fill:#1a1a1a"> codeday.org/{{url}}{%endif%}</tspan></text>
+     style="font-size:11px;font-family:'Avenir Next';fill:#1a1a1a"> codeday.org/seattle{%endif%}</tspan></text>
 
 
 	</g>

@@ -117,7 +117,7 @@
      id="tspan99311"
      x="27.849106"
      y="689.07312"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:43.01789856px;font-family:'Gosha Sans';-inkscape-font-specification:'Gosha Sans Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1">{{month}} {{day}}-{{day+1}},</tspan><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:43.01789856px;font-family:'Gosha Sans';-inkscape-font-specification:'Gosha Sans Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1">Febuary 1,</tspan><tspan
      sodipodi:role="line"
      x="27.849106"
      y="749.07312"
@@ -127,5 +127,5 @@
      x="27.849106"
      y="809.07312"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:43.01789856px;font-family:'Gosha Sans';-inkscape-font-specification:'Gosha Sans Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1"
-     id="tspan99319">codeday.org/{{url}}</tspan></text>
+     id="tspan99319">codeday.org/seattle</tspan></text>
 </svg>

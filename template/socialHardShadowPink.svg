@@ -106,7 +106,7 @@
      y="367.71069"
      class="st10 st4 st5"
      id="tspan1744"
-     style="font-weight:700;font-size:26.63640022px;font-family:'Sofia Pro';text-align:end;text-anchor:end;fill:#d993c0">{{short_month}} {{day}}-{{day+1}}</tspan></text>
+     style="font-weight:700;font-size:26.63640022px;font-family:'Sofia Pro';text-align:end;text-anchor:end;fill:#d993c0">Feb 1</tspan></text>
 
 
 
@@ -175,7 +175,7 @@
      y="21.6"
      class="st10 st4 st6"
      id="tspan1770"
-     style="font-weight:700;font-size:18px;font-family:'Sofia Pro';fill:#d993c0">CodeDay.org/{{url}}</tspan></text>
+     style="font-weight:700;font-size:18px;font-family:'Sofia Pro';fill:#d993c0">CodeDay.org/seattle</tspan></text>
 
 
 
