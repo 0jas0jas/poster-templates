@@ -16757,7 +16757,7 @@
      y="398"
      class="st6 st20 st21"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.01440048px;font-family:'Alte Haas Grotesk';-inkscape-font-specification:'Alte Haas Grotesk Bold';fill:#faf2f3"
-     id="tspan9178">{%if promo%}(Use code {{promo}} for {%if promoFor%}{{promoFor}}{%else%}a discount{%endif%}!){%endif%}</tspan></text>
+     id="tspan9178">(Use code NSC for {{promoFor}}{%else%}a discount{%endif%}!){%endif%}</tspan></text>
 
 
 

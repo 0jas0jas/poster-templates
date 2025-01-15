@@ -148,7 +148,7 @@
          id="tspan20244-6"
          x="540.18951"
          y="842.10138"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;font-family:'Gosha Sans';-inkscape-font-specification:'Gosha Sans Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.75503325">{%if promo%}Use code {{promo}} for {%if promoFor%}{{promoFor}}{%else%}a discount{%endif%}.{%endif%}</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;font-family:'Gosha Sans';-inkscape-font-specification:'Gosha Sans Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.75503325">Use code NSC for 100% off.</tspan></text>
   </g>
   <defs
      id="defs19575">

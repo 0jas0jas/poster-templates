@@ -9838,7 +9838,7 @@
      x="25.86735"
      y="411.50143"
      id="tspan6026-3"
-     style="font-size:24.88870049px;line-height:0.64999998;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1">{%if promo%}Get {%if promoFor%}{{promoFor}}{%else%}a discount{%endif%}</tspan><tspan
+     style="font-size:24.88870049px;line-height:0.64999998;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1">Get {{promoFor}}{%else%}a discount{%endif%}</tspan><tspan
      sodipodi:role="line"
      x="25.86735"
      y="442.70145"
@@ -9848,5 +9848,5 @@
      x="25.86735"
      y="473.90143"
      style="font-size:24.88870049px;line-height:0.64999998;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1"
-     id="tspan36705">&quot;{{promo}}&quot;.{%endif%}</tspan></text>
+     id="tspan36705">&quot;NSC&quot;.{%endif%}</tspan></text>
 </svg>

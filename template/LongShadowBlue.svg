@@ -523,12 +523,12 @@
      y="461.66641"
      class="st4 st5"
      id="tspan1609"
-     style="font-size:25px;font-family:Sofia Pro;text-align:end;text-anchor:end">{%if promo%}Use code “{{promo}}” </tspan><tspan
+     style="font-size:25px;font-family:Sofia Pro;text-align:end;text-anchor:end">Use code “NSC” </tspan><tspan
      x="545.49139"
      y="491.66641"
      class="st4 st5"
      id="tspan1611"
-     style="font-size:25px;font-family:Sofia Pro;text-align:end;text-anchor:end">for {%if promoFor%}{{promoFor}}{%else%}a discount{%endif%}.{%endif%}</tspan></text>
+     style="font-size:25px;font-family:Sofia Pro;text-align:end;text-anchor:end">for 100% off.</tspan></text>
 
 
 
